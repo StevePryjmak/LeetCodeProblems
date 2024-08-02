@@ -61,3 +61,6 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [28. Find the Index of the First Occurrence in a String](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0028)
 - 🍌 [33. Search in Rotated Sorted Array](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0033)
 - 🍌 [34. Find First and Last Position of Element in Sorted Array](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0034)
+- 🍏 [35. Search Insert Position](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0035)
+- 🍌 [36. Valid Sudoku](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0036)
+- 🍌 [39. Combination Sum](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0039)
