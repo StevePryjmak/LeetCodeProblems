@@ -64,3 +64,5 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [35. Search Insert Position](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0035)
 - 🍌 [36. Valid Sudoku](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0036)
 - 🍌 [39. Combination Sum](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0039)
+- 🌶️ [42. Trapping Rain Water](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0042)
+- 🍌 [45. Jump Game II](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0045)
