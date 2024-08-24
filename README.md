@@ -54,6 +54,7 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [14. Longest Common Prefix](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0014)
 - 🍌 [15. 3Sum](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0015)
 - 🍌 [16. 3Sum Closest](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0016)  
+- 🍌 [18. 4Sum](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0018)  
 - 🍌 [19. Remove Nth Node From End of List](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0019)
 - 🍏 [20. Valid Parentheses](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0020)
 - 🍏 [21. Merge Two Sorted Lists](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0021)
