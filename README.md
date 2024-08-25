@@ -83,3 +83,4 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍌 [48. Rotate Image](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0048)
 - 🍌 [49. Group Anagrams](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0049)
 - 🍌 [50. Pow(x, n)](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0050)
+- 🍏 [58. Length of Last Word](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0058)
