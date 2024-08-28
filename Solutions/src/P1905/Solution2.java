@@ -2,6 +2,8 @@ package P1905;
 
 import java.util.*;
 
+
+// This solution is slow because of Set usage in dfs.
 public class Solution2 {
     public boolean dfs(int[][] grid, int x, int y) {
         Set<Pair> group = new HashSet<>();
