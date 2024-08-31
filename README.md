@@ -86,3 +86,4 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [58. Length of Last Word](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0058)
 - 🍏 [590. N-ary Tree Postorder Traversal](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0590)
 - 🍌 [1514. Path with Maximum Probability](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1514)
+- 🍌 [1905. Count Sub Islands](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1905)
