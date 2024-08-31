@@ -34,4 +34,17 @@ class Solution {
         dfs(stonesVect, 0, row, col);
         return max_removed;
     }
+
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int[][] stones = {
+            {0, 0},
+            {0, 1},
+            {1, 0},
+            {1, 2},
+            {2, 1},
+            {2, 2}
+        };
+        System.out.println(sol.removeStones(stones));
+    }
 }
