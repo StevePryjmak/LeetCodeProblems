@@ -87,5 +87,6 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [590. N-ary Tree Postorder Traversal](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0590)
 - 🍌 [947. Most Stones Removed with Same Row or Column](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0947)
 - 🍌 [1514. Path with Maximum Probability](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1514)
+- 🍌 [1894. Find the Student that Will Replace the Chalk](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1894)
 - 🍌 [1905. Count Sub Islands](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1905)
 - 🍏 [2022. Convert 1D Array Into 2D Array](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2022)
