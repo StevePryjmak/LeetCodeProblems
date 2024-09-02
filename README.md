@@ -84,6 +84,7 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍌 [49. Group Anagrams](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0049)
 - 🍌 [50. Pow(x, n)](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0050)
 - 🍏 [58. Length of Last Word](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0058)
+- 🍏 [66. Plus One](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0066)
 - 🍏 [590. N-ary Tree Postorder Traversal](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0590)
 - 🍌 [947. Most Stones Removed with Same Row or Column](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0947)
 - 🍌 [1514. Path with Maximum Probability](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1514)
