@@ -88,6 +88,7 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [590. N-ary Tree Postorder Traversal](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0590)
 - 🍌 [874. Walking Robot Simulation](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0874)
 - 🍌 [947. Most Stones Removed with Same Row or Column](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0947)
+- 🍌 [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1371)
 - 🍌 [1514. Path with Maximum Probability](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1514)
 - 🍏 [1684. Count the Number of Consistent Strings](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1684)
 - 🍌 [1894. Find the Student that Will Replace the Chalk](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P1894)
