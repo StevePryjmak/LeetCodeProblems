@@ -103,4 +103,6 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [1945. Sum of Digits of String After Convert](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P01945)
 - 🍏 [2022. Convert 1D Array Into 2D Array](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2022)
 - 🍌 [2028. Find Missing Observations](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2028)
+- 🍏 [2220. Minimum Bit Flips to Convert Number](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2220)
+- 🍌 [2326. Spiral Matrix IV](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2326)
 - 🍌 [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2419)
