@@ -107,3 +107,4 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [2220. Minimum Bit Flips to Convert Number](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2220)
 - 🍌 [2326. Spiral Matrix IV](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2326)
 - 🍌 [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2419)
+- 🍌 [2807. Insert Greatest Common Divisors in Linked List](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2807)
