@@ -87,6 +87,7 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [66. Plus One](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0066)
 - 🍌 [179. Largest Number](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0179)
 - 🌶️ [214. Shortest Palindrome](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0214)
+- 🍌 [386. Lexicographical Numbers](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0386)
 - 🍌 [241. Different Ways to Add Parentheses](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0241)
 - 🍌 [539. Minimum Time Difference](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0539)
 - 🍏 [590. N-ary Tree Postorder Traversal](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P0590)
