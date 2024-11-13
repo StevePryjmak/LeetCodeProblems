@@ -4,7 +4,7 @@ import java.util.*;
 
 
 // Probably should be refactored to use HashMap for less complexity
-class Solution {
+class Solution1 {
     private void dfs(int node, List<List<Integer>> adj, Set<Integer> visited) {
         visited.add(node);
         for (int neighbor : adj.get(node)) {
