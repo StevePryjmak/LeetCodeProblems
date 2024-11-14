@@ -120,6 +120,7 @@ Each problem is stored in its own directory within the `Solution/src/` folder. T
 - 🍏 [2022. Convert 1D Array Into 2D Array](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2022)
 - 🍌 [2028. Find Missing Observations](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2028)
 - 🍌 [2044. Count Number of Maximum Bitwise-OR Subsets](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2044)
+- 🍌 [2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2064)
 - 🍏 [2220. Minimum Bit Flips to Convert Number](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2220)
 - 🍌 [2070. Most Beautiful Item for Each Query](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2070) 
 - 🍌 [2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/StevePryjmak/LeetCodeProblems/tree/main/Solutions/src/P2275)
